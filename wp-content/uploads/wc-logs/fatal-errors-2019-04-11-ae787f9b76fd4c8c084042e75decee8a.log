@@ -1,0 +1,88 @@
+2019-04-11T14:59:40+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php:11
+Stack trace:
+#0 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(325): acmt_family_registration2('', '', 'acmt_family_reg...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(acmt_f...', 'do_shortcode_ta...', '[acmt_family_re...')
+#3 /var/www/html/lagoscitymarathon/wp-includes/class-wp-hook.php(286): do_shortcode('[acmt_family_re...')
+#4 /var/www/html/lagoscitymarathon/wp-includes/plugin.php(208): WP_Hook->apply_filters('[acmt_family_re...', Array)
+#5 /var/www/html/lagoscitymarathon/wp-includes/post-template.php(247): apply_filters('the_content', '[acmt_family_re...')
+#6 /var/www/html/lagoscitymarathon/wp-content/themes/relic-fashion-store/template-parts/content-page.php(23): the_content()
+#7 /var/www/html/lagoscitymarathon/wp-includes/ in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php on line 11
+
+2019-04-11T14:59:41+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php:11
+Stack trace:
+#0 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(325): acmt_family_registration2('', '', 'acmt_family_reg...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(acmt_f...', 'do_shortcode_ta...', '[acmt_family_re...')
+#3 /var/www/html/lagoscitymarathon/wp-includes/class-wp-hook.php(286): do_shortcode('[acmt_family_re...')
+#4 /var/www/html/lagoscitymarathon/wp-includes/plugin.php(208): WP_Hook->apply_filters('[acmt_family_re...', Array)
+#5 /var/www/html/lagoscitymarathon/wp-includes/post-template.php(247): apply_filters('the_content', '[acmt_family_re...')
+#6 /var/www/html/lagoscitymarathon/wp-content/themes/relic-fashion-store/template-parts/content-page.php(23): the_content()
+#7 /var/www/html/lagoscitymarathon/wp-includes/ in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php on line 11
+
+2019-04-11T15:01:12+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php:11
+Stack trace:
+#0 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(325): acmt_family_registration2('', '', 'acmt_family_reg...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(acmt_f...', 'do_shortcode_ta...', '[acmt_family_re...')
+#3 /var/www/html/lagoscitymarathon/wp-includes/class-wp-hook.php(286): do_shortcode('[acmt_family_re...')
+#4 /var/www/html/lagoscitymarathon/wp-includes/plugin.php(208): WP_Hook->apply_filters('[acmt_family_re...', Array)
+#5 /var/www/html/lagoscitymarathon/wp-includes/post-template.php(247): apply_filters('the_content', '[acmt_family_re...')
+#6 /var/www/html/lagoscitymarathon/wp-content/themes/relic-fashion-store/template-parts/content-page.php(23): the_content()
+#7 /var/www/html/lagoscitymarathon/wp-includes/ in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php on line 11
+
+2019-04-11T15:01:12+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php:11
+Stack trace:
+#0 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(325): acmt_family_registration2('', '', 'acmt_family_reg...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(acmt_f...', 'do_shortcode_ta...', '[acmt_family_re...')
+#3 /var/www/html/lagoscitymarathon/wp-includes/class-wp-hook.php(286): do_shortcode('[acmt_family_re...')
+#4 /var/www/html/lagoscitymarathon/wp-includes/plugin.php(208): WP_Hook->apply_filters('[acmt_family_re...', Array)
+#5 /var/www/html/lagoscitymarathon/wp-includes/post-template.php(247): apply_filters('the_content', '[acmt_family_re...')
+#6 /var/www/html/lagoscitymarathon/wp-content/themes/relic-fashion-store/template-parts/content-page.php(23): the_content()
+#7 /var/www/html/lagoscitymarathon/wp-includes/ in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php on line 11
+
+2019-04-11T15:02:46+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php:11
+Stack trace:
+#0 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(325): acmt_family_registration2('', '', 'acmt_family_reg...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(acmt_f...', 'do_shortcode_ta...', '[acmt_family_re...')
+#3 /var/www/html/lagoscitymarathon/wp-includes/class-wp-hook.php(286): do_shortcode('[acmt_family_re...')
+#4 /var/www/html/lagoscitymarathon/wp-includes/plugin.php(208): WP_Hook->apply_filters('[acmt_family_re...', Array)
+#5 /var/www/html/lagoscitymarathon/wp-includes/post-template.php(247): apply_filters('the_content', '[acmt_family_re...')
+#6 /var/www/html/lagoscitymarathon/wp-content/themes/relic-fashion-store/template-parts/content-page.php(23): the_content()
+#7 /var/www/html/lagoscitymarathon/wp-includes/ in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php on line 11
+
+2019-04-11T15:02:46+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php:11
+Stack trace:
+#0 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(325): acmt_family_registration2('', '', 'acmt_family_reg...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(acmt_f...', 'do_shortcode_ta...', '[acmt_family_re...')
+#3 /var/www/html/lagoscitymarathon/wp-includes/class-wp-hook.php(286): do_shortcode('[acmt_family_re...')
+#4 /var/www/html/lagoscitymarathon/wp-includes/plugin.php(208): WP_Hook->apply_filters('[acmt_family_re...', Array)
+#5 /var/www/html/lagoscitymarathon/wp-includes/post-template.php(247): apply_filters('the_content', '[acmt_family_re...')
+#6 /var/www/html/lagoscitymarathon/wp-content/themes/relic-fashion-store/template-parts/content-page.php(23): the_content()
+#7 /var/www/html/lagoscitymarathon/wp-includes/ in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php on line 11
+
+2019-04-11T15:02:57+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php:11
+Stack trace:
+#0 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(325): acmt_family_registration2('', '', 'acmt_family_reg...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(acmt_f...', 'do_shortcode_ta...', '[acmt_family_re...')
+#3 /var/www/html/lagoscitymarathon/wp-includes/class-wp-hook.php(286): do_shortcode('[acmt_family_re...')
+#4 /var/www/html/lagoscitymarathon/wp-includes/plugin.php(208): WP_Hook->apply_filters('[acmt_family_re...', Array)
+#5 /var/www/html/lagoscitymarathon/wp-includes/post-template.php(247): apply_filters('the_content', '[acmt_family_re...')
+#6 /var/www/html/lagoscitymarathon/wp-content/themes/relic-fashion-store/template-parts/content-page.php(23): the_content()
+#7 /var/www/html/lagoscitymarathon/wp-includes/ in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php on line 11
+
+2019-04-11T15:02:59+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php:11
+Stack trace:
+#0 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(325): acmt_family_registration2('', '', 'acmt_family_reg...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /var/www/html/lagoscitymarathon/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(acmt_f...', 'do_shortcode_ta...', '[acmt_family_re...')
+#3 /var/www/html/lagoscitymarathon/wp-includes/class-wp-hook.php(286): do_shortcode('[acmt_family_re...')
+#4 /var/www/html/lagoscitymarathon/wp-includes/plugin.php(208): WP_Hook->apply_filters('[acmt_family_re...', Array)
+#5 /var/www/html/lagoscitymarathon/wp-includes/post-template.php(247): apply_filters('the_content', '[acmt_family_re...')
+#6 /var/www/html/lagoscitymarathon/wp-content/themes/relic-fashion-store/template-parts/content-page.php(23): the_content()
+#7 /var/www/html/lagoscitymarathon/wp-includes/ in /var/www/html/lagoscitymarathon/wp-content/plugins/accessmarathon/acmt_family_registration2.php on line 11
+
